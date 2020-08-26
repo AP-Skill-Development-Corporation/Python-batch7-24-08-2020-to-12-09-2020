@@ -28,3 +28,16 @@
   - Order List
   - Unorder list
   - URLs etc..,
+
+
+<hr>
+
+
+## Day-3
+
+- Python Features
+- Keywords
+- Variables
+- Operators
+
+<hr>
