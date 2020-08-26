@@ -36,6 +36,7 @@
 ## Day-3
 
 - Python Features
+- Difference between Python 2 and Python 3 Versions
 - Keywords
 - Variables
 - Operators
