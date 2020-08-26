@@ -20,6 +20,7 @@
   - Paragraphs
   - Bold 
   - Itallic
+  - Bold and Itallic
   - block quotes
   - Images
   - Videos
