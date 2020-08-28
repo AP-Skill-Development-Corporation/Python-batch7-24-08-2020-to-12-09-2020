@@ -56,3 +56,15 @@
   - while
 
 <hr>
+
+
+## Day-5
+
+- Iterations (Continue to for Loop)
+- While loop with examples
+- Functions 
+- Problem With Upto Today Concepts.
+
+<hr>
+
+
