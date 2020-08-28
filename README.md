@@ -42,3 +42,17 @@
 - Operators
 
 <hr>
+
+
+## Day-4
+
+- Conditional statements
+  - if
+  - if else
+  - if elif else
+  - Nested if
+- Iterations
+  - for 
+  - while
+
+<hr>
