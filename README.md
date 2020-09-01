@@ -67,4 +67,40 @@
 
 <hr>
 
+# Day-6
+- Functions
+  - User Defined
+  - Pre defined
+  - Types of Functions
+      - Recursion in Functions
+      - Scope of varibles in Functions
+      
+ <hr>
+ 
+ # Day 7
+ - Strings
+  - What is string
+  - Creating different ways in string
+  - String retriving
+    - forward
+    - backward
+  - String slicing
+    - forward
+    - backaward
+    - reverse
+  - Concatination
+  - Repetation
+  - Member ship operator with string etc..,
+  
+  <hr>
+  
+  # Day-8
+  - String conti...
+    - String Methods
+  - Data Structures
+    - List
+      - Types of list
+      - Retriving
+      - Slicing
+      - List Methods
 
