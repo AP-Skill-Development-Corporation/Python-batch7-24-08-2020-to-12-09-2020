@@ -103,4 +103,21 @@
       - Retriving
       - Slicing
       - List Methods
+      
+  <hr>
+  
+  # Day-9
+  - Tuple
+    - Slicing
+    - Concatination
+    - Replication
+    - Packing and Unpacking
+    - Tuple Methods
+  - Dictionary 
+    - Updation
+    - Dictionary Methods
+    
+  <hr>
+     
+  
 
