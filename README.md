@@ -116,9 +116,19 @@
     - Tuple Methods
   - Dictionary 
     - Updation
-    - Dictionary Methods
     
   <hr>
+  
+  # Day-10
+  - Dictionary Methods
+  - Examples on Dictionary
+  - File Handling
+    - Create Files
+    - Write Files
+    - Read Files
+    
+  <hr>
+    
      
   
 
