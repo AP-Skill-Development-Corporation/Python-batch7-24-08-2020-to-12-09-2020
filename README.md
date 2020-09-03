@@ -103,6 +103,7 @@
       - Retriving
       - Slicing
       - List Methods
+  - Problem Solving on Strings
       
   <hr>
   
