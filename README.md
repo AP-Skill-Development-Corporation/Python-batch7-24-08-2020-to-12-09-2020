@@ -151,7 +151,7 @@
 
 - 2. Function which reads data from text file
 
--3. Function which returns line count in text file
+- 3. Function which returns line count in text file
 
 - 4. Function which returns no of words in a text file
 
@@ -165,9 +165,9 @@
    input - [2,4,6,8,10]
    output - {2 : 4, 4 : 16, 6 : 36, 8 : 64, 10 : 100}
 
-- 9.Find the frequency of numbers b/w 0 to 9 in given list
--input - [9, 1, 3, 1, 7, 2, 1, 9, 8, 6, 5, 4, 1, 2, 3, 100, 99]
+- 9. Find the frequency of numbers b/w 0 to 9 in given list
+- input - [9, 1, 3, 1, 7, 2, 1, 9, 8, 6, 5, 4, 1, 2, 3, 100, 99]
 
--output - {0 : 0, 1 : 4, 2 : 2, 3 : 2, 4 : 1, 5 : 1, 6 : 1, 7 : 1, 8 : 1, 9 : 2 }
+- output - {0 : 0, 1 : 4, 2 : 2, 3 : 2, 4 : 1, 5 : 1, 6 : 1, 7 : 1, 8 : 1, 9 : 2 }
   
 
