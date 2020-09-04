@@ -129,6 +129,45 @@
     
   <hr>
     
-     
+   # Day-11
+   - File Handling in Python
+   - What is File?
+   - File Types?
+   - File Operations
+   - File Modes and Methods
+   - Tell() and Seek() Methods
+   - Problem Solving
+   
+   -- Sets Data Structures in Python
+   -- How create empty sets
+   -- Sets With Values
+   -- Add or remove elements to Sets
+   -- Set Operations or Methods
+   -- Problem Solving.
+   # Day-11 Tasks (Problem Solving)
+             # Problem Solving on File Handling #
+
+1. # Function to write data into file
+
+2. # Function which reads data from text file
+
+3. # Function which returns line count in text file
+
+4. # Function which returns no of words in a text file
+
+5. # Function which returns sum of numbers in a file
+
+6. # Function to Add User Details to input life.
+
+7. #Find the frequency of numbers b/w 0 to 9 in given list
+
+8. #Convert the given list to dictionary as given below
+   #input - [2,4,6,8,10]
+   #output - {2 : 4, 4 : 16, 6 : 36, 8 : 64, 10 : 100}
+
+9. #### Find the frequency of numbers b/w 0 to 9 in given list
+##### input - [9, 1, 3, 1, 7, 2, 1, 9, 8, 6, 5, 4, 1, 2, 3, 100, 99]
+
+##### output - {0 : 0, 1 : 4, 2 : 2, 3 : 2, 4 : 1, 5 : 1, 6 : 1, 7 : 1, 8 : 1, 9 : 2 }
   
 
