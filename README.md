@@ -183,7 +183,7 @@
   - How to use regular expressions pattern rules
   - Applications
   - Problem Solving
-# Day -12 Tasks:
+# Day-12 Tasks:
 - 1. data="""fgvlhj nkg kjg knjg n,bgihM KJGNLJH JGDKTHGC GHF JGYUFH V KHGTFV53 56 jhgfijh 6578+96GJFUJ """
      find out no.of 
                    1. Upper case Characters
