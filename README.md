@@ -192,19 +192,19 @@
                    4. Length of Data
                    5. Special Characters
 - 2. Using Strings, U can Print the output based on given input string.
-   #i/p: C S E S T U D E N T S
+     #i/p: C S E S T U D E N T S
 
-   #O/P: csestudentS
+     #O/P: csestudentS
 
 - 3. Using Lists, U can print only 3 digit numbers from given input list.
    and also print their sum.
-   #Ex: l1=[12,45,787,123,456,2,54,456]
+     #Ex: l1=[12,45,787,123,456,2,54,456]
 
-- 4. # Function to find the first and second largest number in a list
-   #Ex: [1,2,3,4,2,5,8,7,1,2,8,8]
+- 4. #Function to find the first and second largest number in a list
+     #Ex: [1,2,3,4,2,5,8,7,1,2,8,8]
     
 - 5. #Function to find the nth largest number in a list.
-   #Ex: l1=[12,45,787,123,456,2,54,456]
+     #Ex: l1=[12,45,787,123,456,2,54,456]
 
 - 6. #Function to identify the element with highest freqency in a list
      #if many elements have the higestfrequency, returns the smallest
