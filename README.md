@@ -170,6 +170,53 @@
 
 - output - {0 : 0, 1 : 4, 2 : 2, 3 : 2, 4 : 1, 5 : 1, 6 : 1, 7 : 1, 8 : 1, 9 : 2 }
 
+# Day-12
+- Packages and Modules in Python
+  - What is Module and Types?
+  - Usedefined & Pre defined Modules
+  - How to Create and Use User Defined Modules
+  - What is Package and Types?
+  - How to Create and Use User Defined Packages.
+- Regular Expressions in Python
+  - what is Regular Expression?
+  - what is use?1. data="""fgvlhj nkg kjg knjg n,bgihM KJGNLJH
+JGDKTHGC GHF
+JGYUFH V
+KHGTFV53
+569
+jhgfijhy
+6578+96GJFUJ
+"""
+find out no.of 
+                   1. Upper case Characters
+                   2. Lower Case Characters
+                   3. Digits
+                   4. Length of Data
+                   5. Special Characters
+2. Using Strings, U can Print the output based on given input string.
+   #i/p: C S E S T U D E N T S
+
+   #O/P: csestudentS
+
+3. Using Lists, U can print only 3 digit numbers from given input list.
+   and also print their sum.
+   #Ex: l1=[12,45,787,123,456,2,54,456]
+
+4. # Function to find the first and second largest number in a list
+   #Ex: [1,2,3,4,2,5,8,7,1,2,8,8]
+    
+5. #Function to find the nth largest number in a list.
+   #Ex: l1=[12,45,787,123,456,2,54,456]
+
+6. #Function to identify the element with highest freqency in a list
+#if many elements have the higestfrequency, returns the smallest
+#HighestFrequency([1,2,3,9,8,7,3,4,2,1])
+
+  - How to use regular expressions pattern rules
+  - Applications
+  - Problem Solving
+# Day -12 Tasks:
+
 
 
 
