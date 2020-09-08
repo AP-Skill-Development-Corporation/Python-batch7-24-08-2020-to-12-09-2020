@@ -225,5 +225,18 @@
 - Iterators
 - Generators
 
+# Day-14
+- Functional Programming
+  - lambda()
+  - map()
+    - map() with lambda()
+  - filter()
+    - filter with lambda
+  - filter() with map()
+  - map() with filter()
+  - reduce
+    - reduce() with lambda()
+  - map(),filter(),reduce() with lambda()
+
   
 
