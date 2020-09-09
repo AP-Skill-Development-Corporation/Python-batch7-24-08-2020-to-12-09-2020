@@ -144,7 +144,10 @@
    - Add or remove elements to Sets
    - Set Operations or Methods
    - Problem Solving.
-   # Day-11 Tasks (Problem Solving)
+   
+ 
+ 
+  # Day-11 Tasks (Problem Solving)
              # Problem Solving on File Handling #
 
 - 1. Function to write data into file
@@ -170,6 +173,8 @@
 
 - output - {0 : 0, 1 : 4, 2 : 2, 3 : 2, 4 : 1, 5 : 1, 6 : 1, 7 : 1, 8 : 1, 9 : 2 }
 
+<hr>
+
 # Day-12
 - Packages and Modules in Python
   - What is Module and Types?
@@ -183,6 +188,8 @@
   - How to use regular expressions pattern rules
   - Applications
   - Problem Solving
+  
+  
 # Day-12 Tasks:
 - 1. data="""fgvlhj nkg kjg knjg n,bgihM KJGNLJH JGDKTHGC GHF JGYUFH V KHGTFV53 56 jhgfijh 6578+96GJFUJ """
      find out no.of 
@@ -209,11 +216,10 @@
 - 6. #Function to identify the element with highest freqency in a list
      #if many elements have the higestfrequency, returns the smallest
      #HighestFrequency([1,2,3,9,8,7,3,4,2,1])
-
-  
-
-
-
+     
+     
+     
+ <hr>
 
 # Day-13
 - Comprehensions
@@ -224,6 +230,8 @@
   
 - Iterators
 - Generators
+
+<hr>
 
 # Day-14
 - Functional Programming
@@ -237,6 +245,19 @@
   - reduce
     - reduce() with lambda()
   - map(),filter(),reduce() with lambda()
+  
+  
+<hr>
+
+# Day-15
+
+- Object Oriented Programming Concepts(**OOP's**)
+  - Class
+  - Object
+  - Constructors
+
+  
+
 
   
 
