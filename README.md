@@ -255,7 +255,24 @@
   - Class
   - Object
   - Constructors
+  
+  
+<hr>
 
+# Day-16
+
+### OOP's Conti.....
+
+- Inheritance
+  - Types Of Inheritance
+      - Single Inheritance- (One parent ,One child)
+      - Multiple Inheritance-(Multiple parents(father and mother),Onechild)
+      - Multi level Inheritance-(grand father,father,son)
+      - Hierarchical Inheritance-(Single parent,multiple childs)
+      
+      
+- Packages and Modules Using OOP's
+ 
   
 
 
